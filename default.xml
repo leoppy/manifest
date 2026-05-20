@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="https://github.com/leoppy" />
+  <default remote="github" revision="main" sync-j="4" />
+
+  <project name="orange" path="orange" revision="main" />
+  <project name="tomato" path="tomato" revision="main" />
+  <project name="apple"  path="apple"  revision="main" />
+</manifest>
