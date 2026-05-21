@@ -4,6 +4,6 @@
   <default remote="github" revision="main" sync-j="4" />
 
   <project name="orange" path="orange" revision="main" />
-  <project name="tomato" path="tomato" revision="main" />
+  <project name="tomato" path="orange/tomato" revision="main" />
   <project name="apple"  path="apple"  revision="main" />
 </manifest>
