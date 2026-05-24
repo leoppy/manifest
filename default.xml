@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="github" fetch="https://github.com/leoppy" />
+  <remote name="github" fetch="ssh://git@github.com/leoppy" />
   <default remote="github" revision="main" sync-j="4" />
 
   <project name="banana" path="banana" revision="main" />
